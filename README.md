@@ -1,2 +1,2 @@
 # SpringBootMongoBD
-Aplicación con acceso de datos a MongoDB con SpringBoot y SpringData
+Aplicación con acceso a MongoDB con SpringBoot y SpringData 
